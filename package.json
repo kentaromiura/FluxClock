@@ -1,0 +1,22 @@
+{
+  "name": "FluxClock",
+  "version": "1.0.0",
+  "description": "Rewriting of a real mvc example using flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Carlesso <@kentaromiura>",
+  "license": "MIT",
+  "dependencies": {
+    "flux" : "*",
+    "react" : "*",
+    "mout" : "~0.9",
+    "prime" : "*"
+  },
+  "devDependencies": {
+    "wrapup" : "*",
+    "react-tools": "*",
+    "polpetta": "*"
+  }
+}
